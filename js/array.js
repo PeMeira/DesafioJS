@@ -2,7 +2,7 @@ const produtos = [
     {
         id: 1,
         nome: "Camiseta Milan",
-        descricao: "Essa de time é perfeita para quem quer mostrar sua paixão pela equipe com estilo e conforto. Confeccionada em material de alta qualidade, ela oferece um ajuste ideal e um design moderno com o escudo do time. Ideal para torcer com orgulho!",
+        descricao: "Essa camiseta é perfeita para quem quer mostrar sua paixão pela equipe com estilo e conforto. Confeccionada em material de alta qualidade, ela oferece um ajuste ideal e um design moderno com o escudo do time. Ideal para torcer com orgulho!",
         preco: "R$ 99,90",
         imagem: "img/camiseta-de-time.jpg"
     },
